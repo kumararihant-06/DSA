@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kumararihant-06/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumararihant-06/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kumararihant-06/DSA/tree/master/0125-valid-palindrome) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
