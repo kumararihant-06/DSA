@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumararihant-06/DSA/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/kumararihant-06/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kumararihant-06/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumararihant-06/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kumararihant-06/DSA/tree/master/2652-sum-multiples) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kumararihant-06/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1486-xor-operation-in-an-array](https://github.com/kumararihant-06/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
