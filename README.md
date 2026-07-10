@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kumararihant-06/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kumararihant-06/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
