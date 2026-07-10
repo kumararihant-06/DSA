@@ -6,7 +6,7 @@ public:
         while(num>0){
             int divisor = num%10;
             num = num/10;
-            if(orgNum%divisor == 0) count++;
+            if(divisor!=0 && orgNum%divisor == 0) count++;
         }
         return count;
     }
