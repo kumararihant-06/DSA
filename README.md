@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumararihant-06/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kumararihant-06/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumararihant-06/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
