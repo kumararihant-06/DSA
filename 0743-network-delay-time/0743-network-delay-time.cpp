@@ -14,7 +14,9 @@ public:
             int time = it.first;
             int node = it.second;
             pq.pop();
-
+            //skip old stale entries if a better path is found.
+            if (time > timeTaken[node])
+                continue;
             for(auto it: adj[node]){
                 int nodeTime = it.second;
                 int adjNode = it.first;
