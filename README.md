@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/kumararihant-06/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kumararihant-06/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 | [2974-minimum-number-game](https://github.com/kumararihant-06/DSA/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kumararihant-06/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumararihant-06/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/kumararihant-06/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kumararihant-06/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kumararihant-06/DSA/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
