@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumararihant-06/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumararihant-06/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumararihant-06/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kumararihant-06/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kumararihant-06/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/kumararihant-06/DSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0127-word-ladder](https://github.com/kumararihant-06/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumararihant-06/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kumararihant-06/DSA/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kumararihant-06/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
