@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/kumararihant-06/DSA/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kumararihant-06/DSA/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
