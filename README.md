@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumararihant-06/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumararihant-06/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
