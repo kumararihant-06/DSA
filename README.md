@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumararihant-06/DSA/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/kumararihant-06/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kumararihant-06/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumararihant-06/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumararihant-06/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kumararihant-06/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
