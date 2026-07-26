@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kumararihant-06/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
