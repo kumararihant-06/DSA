@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararihant-06/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
