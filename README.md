@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kumararihant-06/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumararihant-06/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumararihant-06/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/kumararihant-06/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kumararihant-06/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumararihant-06/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
