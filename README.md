@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
+| [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararihant-06/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kumararihant-06/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumararihant-06/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumararihant-06/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumararihant-06/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -201,10 +204,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
