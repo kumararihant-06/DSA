@@ -149,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/kumararihant-06/DSA/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/kumararihant-06/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kumararihant-06/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kumararihant-06/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
