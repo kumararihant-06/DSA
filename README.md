@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumararihant-06/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kumararihant-06/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kumararihant-06/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumararihant-06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumararihant-06/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kumararihant-06/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumararihant-06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/kumararihant-06/DSA/tree/master/3019-number-of-changing-keys) |
 ## Queue
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumararihant-06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
 | ------- |
