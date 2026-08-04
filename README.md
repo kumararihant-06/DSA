@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumararihant-06/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kumararihant-06/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/kumararihant-06/DSA/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/kumararihant-06/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/kumararihant-06/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumararihant-06/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/kumararihant-06/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/kumararihant-06/DSA/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumararihant-06/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/kumararihant-06/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
