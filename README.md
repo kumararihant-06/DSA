@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/kumararihant-06/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/kumararihant-06/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kumararihant-06/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3310-remove-methods-from-project](https://github.com/kumararihant-06/DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/kumararihant-06/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kumararihant-06/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kumararihant-06/DSA/tree/master/0743-network-delay-time) |
+| [3310-remove-methods-from-project](https://github.com/kumararihant-06/DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
