@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumararihant-06/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/kumararihant-06/DSA/tree/master/0155-min-stack) |
 ## Array
 |  |
 | ------- |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumararihant-06/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kumararihant-06/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
