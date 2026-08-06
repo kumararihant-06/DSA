@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumararihant-06/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumararihant-06/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kumararihant-06/DSA/tree/master/0155-min-stack) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumararihant-06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kumararihant-06/DSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumararihant-06/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararihant-06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumararihant-06/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/kumararihant-06/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/kumararihant-06/DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/kumararihant-06/DSA/tree/master/1486-xor-operation-in-an-array) |
