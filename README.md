@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/kumararihant-06/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumararihant-06/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kumararihant-06/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/kumararihant-06/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kumararihant-06/DSA/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kumararihant-06/DSA/tree/master/0200-number-of-islands) |
 | [0410-split-array-largest-sum](https://github.com/kumararihant-06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kumararihant-06/DSA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/kumararihant-06/DSA/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/kumararihant-06/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumararihant-06/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumararihant-06/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/kumararihant-06/DSA/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kumararihant-06/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumararihant-06/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/kumararihant-06/DSA/tree/master/3731-find-missing-elements) |
@@ -263,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kumararihant-06/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kumararihant-06/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
