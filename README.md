@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/kumararihant-06/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumararihant-06/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kumararihant-06/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/kumararihant-06/DSA/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/kumararihant-06/DSA/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kumararihant-06/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kumararihant-06/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/kumararihant-06/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/kumararihant-06/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kumararihant-06/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumararihant-06/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumararihant-06/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kumararihant-06/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
